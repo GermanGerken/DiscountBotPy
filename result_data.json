@@ -1,0 +1,66 @@
+[
+    {
+        "title": "CROSS HIKE MID GTX",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/33310/",
+        "price_base": 15490,
+        "price_sale": 10790,
+        "discount_percent": 30
+    },
+    {
+        "title": "XA ROGG",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/15483/",
+        "price_base": 9990,
+        "price_sale": 4990,
+        "discount_percent": 50
+    },
+    {
+        "title": "AMPHIB BOLD 2",
+        "category": "Водные виды спорта",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/sandalii_i_akvashuz/56761/",
+        "price_base": 7990,
+        "price_sale": 5590,
+        "discount_percent": 30
+    },
+    {
+        "title": "SENSE FEEL 2",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56492/",
+        "price_base": 7990,
+        "price_sale": 3990,
+        "discount_percent": 50
+    },
+    {
+        "title": "PREDICT MOD",
+        "category": "",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/35089/",
+        "price_base": 7990,
+        "price_sale": 5590,
+        "discount_percent": 30
+    },
+    {
+        "title": "WINGS SKY",
+        "category": "Трейлраннинг",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56678/",
+        "price_base": 11490,
+        "price_sale": 7990,
+        "discount_percent": 30
+    },
+    {
+        "title": "PREDICT SOC",
+        "category": "Бег по асфальту",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/15214/",
+        "price_base": 10990,
+        "price_sale": 7690,
+        "discount_percent": 30
+    },
+    {
+        "title": "OUTline",
+        "category": "Пеший туризм",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/3104/",
+        "price_base": 9990,
+        "price_sale": 4990,
+        "discount_percent": 50
+    }
+]
